@@ -1,2 +1,2 @@
 # project
-project with code
+this is my frst git Repository.
